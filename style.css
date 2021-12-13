@@ -1,7 +1,12 @@
 .jumbotron{
     background-color: blueviolet;
     color:floralwhite;
+    padding-top: 15% !important;
 }
 .jumbotron-class{
     background-color: rgb(233, 227, 238);
+    
+}
+.card-header,.btns{
+    background-color:#ffbc00e6 !important;
 }
