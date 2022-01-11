@@ -27,3 +27,6 @@
     left: 0;
     min-height: 300px;
 }
+nav.navbar.navbar-dark.navbar-expand-sm.fixed-top {
+    background-color: navy;
+}
